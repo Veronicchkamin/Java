@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MainApp {
     public static void main(String[] args) {
-         System.out.println("enter number");
+        System.out.println("enter number");
         Scanner sc = new Scanner(System.in);
         var num = sc.nextInt();
         int sum = 0;
@@ -15,6 +15,8 @@ public class MainApp {
         }
 
         System.out.println("close");
+        System.out.println("close");
+
     }
 
 }
